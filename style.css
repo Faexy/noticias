@@ -64,7 +64,7 @@ header nav.mobile {
     transition: 0.7s;
 }
 
-.header-mobile nav.mobile.abrir {
+header nav.mobile.abrir {
     right: 0;
 }
 
@@ -131,7 +131,7 @@ main {
 }
 
 .margin-border-padding {
-    border: 1px solid var(--gunmetal);
+    border-bottom: 1px solid var(--gunmetal);
     margin-bottom: 1.75rem;
     padding-bottom: 1.75rem;
 }
